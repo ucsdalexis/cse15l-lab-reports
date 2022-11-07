@@ -6,3 +6,4 @@ This is just a test.
 
 [Week 3 Lab Report 2](/cse15l-lab-reports/week-3-lab-report-2.html)
 
+[Week 5 Lab Report 3](/cse15l-lab-reports/week-5-lab-report-3.html)
