@@ -2,7 +2,9 @@
 
 ### Part 1
 
-#### Opening File to Edit with Vim
+#### Changing the name of the start parameter and its uses to base
+
+##### Opening File to Edit with Vim
 
 `v` 
 `i` 
@@ -16,7 +18,7 @@
 [<img src="./week-7-images/opened_file.png" width="550"/>](./week-7-images/opened_file.png)
 
 
-#### Looking for Phrases to Change
+##### Looking for Phrases to Change
 `/` 
 `s` 
 `t` 
@@ -52,7 +54,7 @@
 
 [<img src="./week-7-images/next_word_2.png" width="550"/>](./week-7-images/next_word_2.png)
 
-#### Exiting Vim
+##### Exiting Vim
 
 `.` <br />
 
@@ -67,3 +69,5 @@
 `<enter>` <br />
 
 [<img src="./week-7-images/left_vim.png" width="550"/>](./week-7-images/left_vim.png)
+
+### Part 2
