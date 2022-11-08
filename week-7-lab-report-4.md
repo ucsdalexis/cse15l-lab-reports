@@ -12,8 +12,8 @@
 `<tab>` 
 `<enter>` <br />
 
-![typing to open file](/week-7-images/open_file.png)
-![entering into vim file](/week-7-images/opened_file.png)
+<img src="./week-7-images/open_file.png" width="550">
+<img src="./week-7-images/opened_file.png" width="550">
 
 #### Looking for Phrases to Change
 `/` 
@@ -23,12 +23,13 @@
 `r` 
 `<enter>` <br />
 
-![going to edit point](/week-7-images/search_file.png)
+<img src="./week-7-images/search_file.png" width="550">
 
 `c`
 `e` <br />
 
-![cutting word](/week-7-images/cut_word.png)
+<img src="./week-7-images/cut_word.png" width="550">
+
 
 `b` 
 `a` 
@@ -36,32 +37,33 @@
 `e` 
 `<esc>` <br />
 
-![typing in word](/week-7-images/type_word.png)
+<img src="./week-7-images/cut_word.png" width="550">
 
 `n` <br />
 
-![moving to next instance of start](/week-7-images/next_word.png)
+<img src="./week-7-images/next_word.png" width="550">
 
 `.` <br />
 
-![pasting word](/week-7-images/paste_word.png)
+<img src="./week-7-images/paste_word.png" width="550">
 
 `n` <br />
 
-![moving to next instance of start](/week-7-images/next_word_2.png)
+
+<img src="./week-7-images/next_word_2.png" width="550">
 
 #### Exiting Vim
 
 `.` <br />
 
-![pasting word](/week-7-images/paste_word_2.png)
+<img src="./week-7-images/paste_word_2.png" width="550">
 
 `<shift>` + `;` 
 `w` 
 `q` <br />
 
-![exiting vim](/week-7-images/quit_vim.png)
+<img src="./week-7-images/quit_vim.png" width="550">
 
 `<enter>` <br />
 
-![exiting vim](/week-7-images/left_vim.png)
+<img src="./week-7-images/left_vim.png" width="550">
